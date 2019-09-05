@@ -1,8 +1,6 @@
 # C & C++ Code Run On Mac Terminal
 
-## C Code Run Hello World with Mac's Terminal.
-
-## C++ Code Run Hello World with Mac's Terminal.
+![](https://github.com/pawankv89/C-Code-Run-On-Mac-Terminal//blob/master/screen_1.png)
 
 ### C Source Code
 
@@ -27,3 +25,11 @@ int main() {
     return 0;
 }
 ```
+
+## License
+
+This code is distributed under the terms and conditions of the [MIT license](LICENSE).
+
+## Change-log
+
+A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
