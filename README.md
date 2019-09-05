@@ -1,6 +1,7 @@
 # C & C++ Code Run On Mac Terminal
 
 ![](https://github.com/pawankv89/C-Code-Run-On-Mac-Terminal//blob/master/screen_1.png)
+![](https://raw.githubusercontent.com/pawankv89/C-Code-Run-On-Mac-Terminal/master/screen_1.png)
 
 ### C Source Code
 
