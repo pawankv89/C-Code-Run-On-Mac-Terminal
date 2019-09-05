@@ -1,14 +1,19 @@
-# C++ Code Run On Mac Terminal
-C++ Code Run Hello World with Mac's Terminal.
+# C & C++ Code Run On Mac Terminal
 
+## C Code Run Hello World with Mac's Terminal.
+
+## C++ Code Run Hello World with Mac's Terminal.
 
 ### C Source Code
+
+```c
 #include <stdio.h>
 
 int main() {
     printf("Hello, World!\n");
     return 0;
 }
+```
 
 ### C++ Source Code
 
